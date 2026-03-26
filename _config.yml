@@ -63,7 +63,7 @@ author:
   bio    : "UC Santa Cruz computer game design student"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/joseph-dadlez-550214314/"
    # - label: "Twitter"
    #   icon: "fab fa-fw fa-twitter-square"
@@ -78,7 +78,7 @@ author:
 footer:
   links:
    - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/joseph-dadlez-550214314/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
