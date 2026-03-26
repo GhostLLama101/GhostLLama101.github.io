@@ -77,7 +77,7 @@ author:
 
 footer:
   links:
-   - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/joseph-dadlez-550214314/"
     # - label: "Twitter"
