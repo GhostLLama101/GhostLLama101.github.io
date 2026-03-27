@@ -1,6 +1,7 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "GDA"
+layout: GDA
+permalink: /GDA/
 author_profile: true
 ---
+- this is GDA projects
