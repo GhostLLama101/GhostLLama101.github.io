@@ -1,6 +1,6 @@
 ---
 title: "GDA"
-layout: GDA
+layout: single
 permalink: /GDA/
 author_profile: true
 ---
