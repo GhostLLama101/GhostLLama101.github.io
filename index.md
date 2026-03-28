@@ -6,7 +6,8 @@ layout: single
 author_profile: true
 ---
 
-I am a junior at University of California Santa Cruz. I am a computer science game design major who is a part of the Game Design & Art Collaboration. Project that I have done are:
-- Project 1
-- Project 2
-- Project 3
+- Most recent Project: "Reep and Sew"
+  ![](/assets/images/luna.png)
+  Created and enty script the allows for anything that can take damage to have damage applyed to it. For example Enemies, Players, even blocks can be destroyed.
+  Also created the enemy attacks and movment for the game.
+  [Vertical slice](https://melikestuff.itch.io/reap-and-sew)
