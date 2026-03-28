@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Joseph Dadlez"
   avatar : "/assets/images/image000001.jpg"
-  bio    : "UC Santa Cruz computer game design student"
+  bio    : "UC Santa Cruz Computer Science Game Design student"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
