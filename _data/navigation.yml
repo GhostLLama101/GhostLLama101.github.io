@@ -3,7 +3,7 @@ main:
     url: /projects/
   - title: "GDA"
     url: /GDA/
-  - title: "About"
-    url: /about/
+ # - title: "About"
+ #   url: /about/
   - title: "Unity"
     url: /Unity/
