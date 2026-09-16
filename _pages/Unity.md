@@ -9,6 +9,7 @@ author_profile: true
 this is where u talk about Golem and show the sprite sheet when its done
 
 ## **Grass Shader** 
+![Description of the gif](/assets/images/gif.gif)
 talk about the grass shader u made and add the gif with multiple pictures of of the UI
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vFfvGguH3zY" 
