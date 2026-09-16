@@ -11,7 +11,7 @@ author_profile: true
   [Play DOGFIGHT](https://ghostllama101.github.io/DogFight/)
 
 ### **Color Blind** May 2025
-  ![Color Blind image](/assets/images/)
+  ![Color Blind image](/assets/images/color blind picture.png)
   Created a Platformer in black and white. This was my second game and learning how to force the crouch when there was an object above the player was very difficult.
   [Play Color Blind](https://ghostllama101.github.io/Color_Blind/)
 
