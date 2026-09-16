@@ -6,8 +6,5 @@ layout: single
 author_profile: true
 ---
 
-- Most recent Project: "Reep and Sew"
-  ![](/assets/images/luna.png)
-  Created and enty script the allows for anything that can take damage to have damage applyed to it. For example Enemies, Players, even blocks can be destroyed.
-  Also created the enemy attacks and movment for the game.
-  [Vertical slice](https://melikestuff.itch.io/reap-and-sew)
+Most recent Project: "Golem"
+  filler
