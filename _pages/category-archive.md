@@ -1,5 +1,5 @@
 ---
-title: "GDA"
+title: "Game Design + Art Collaboration (UCSC)"
 layout: single
 permalink: /GDA/
 author_profile: true
