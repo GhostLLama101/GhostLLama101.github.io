@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## **PHAZER(javascript)**
 ### **DOG_FIGHT** May 2025
-  ![DOG_Fight image](/assets/images/DogFight.png)
+  ![DOG_Fight image](/assets/images/DogFightImage.png)
   This is my first game ever. I wanted to replicate the feeling that I had when I was child when I player 1942 in the arcade.
   [Play DOGFIGHT](https://ghostllama101.github.io/DogFight/)
 
