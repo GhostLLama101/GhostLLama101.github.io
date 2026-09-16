@@ -11,5 +11,9 @@ this is where u talk about Golem and show the sprite sheet when its done
 ## **Grass Shader** 
 talk about the grass shader u made and add the gif with multiple pictures of of the UI
 
-## **Reap & Sew**
-copy the stuff that was already there
+
+## **Reep and Sew**
+  ![](/assets/images/luna.png)
+  Created and entity script the allows for anything that can take damage to have damage applied to it. For example Enemies, Players, even blocks can be destroyed.
+  Also created the enemy attacks and movement for the game.
+  [Vertical slice](https://melikestuff.itch.io/reap-and-sew)
