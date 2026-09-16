@@ -9,7 +9,7 @@ this is where u talk about Golem and show the sprite sheet when its done
 
 ## **Grass Shader** 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
-  <img src="/assets/images/gif.gif" alt="Grass shader gif">
+  <img src="/assets/images/gif.gif" alt="Grass shader gif" style="max-width: 45%; height: auto;">
   <p>Talk about the grass shader you made and add the gif with multiple pictures of the UI.</p>
 </div>
 
