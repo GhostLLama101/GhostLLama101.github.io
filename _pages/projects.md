@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
 layout: single
-author_profile: true
+author_profile: false
 ---
 ## **PHAZER(javascript)**
 ### **DOG_FIGHT** 2024
