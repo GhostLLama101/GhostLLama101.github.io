@@ -2,7 +2,6 @@
 title: "Unity"
 layout: single
 permalink: /Unity/
-author_profile: true
 ---
 
 ## **Golem**  ***June - present***
