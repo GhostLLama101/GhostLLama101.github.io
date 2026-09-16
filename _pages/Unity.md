@@ -8,10 +8,9 @@ permalink: /Unity/
 this is where u talk about Golem and show the sprite sheet when its done
 
 ## **Grass Shader** 
-<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
-  <img src="/assets/images/gif.gif" alt="Grass shader gif" style="max-width: 15%; height: auto;">
-  <p>Talk about the grass shader you made and add the gif with multiple pictures of the UI.</p>
-</div>
+![](/assets/images/gif.gif)
+
+This si where you will talk about what the UI does for the user and the end result will be next im just type to make sure that I can preview what will be the out come of the stuff that im giving up plse im goingin sain ta s hibi hydsabuidsabsdabiu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vFfvGguH3zY" 
   title="YouTube video player" frameborder="0" 
