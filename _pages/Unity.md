@@ -10,7 +10,7 @@ this is where u talk about Golem and show the sprite sheet when its done
 ## **Grass Shader** 
 ![](/assets/images/gif.gif)
 
-This si where you will talk about what the UI does for the user and the end result will be next im just type to make sure that I can preview what will be the out come of the stuff that im giving up plse im goingin sain ta s hibi hydsabuidsabsdabiu
+Created a stylized grass shader inspired by video games. Modified a tutorial-based shader and added procedural wind noise to give the grass natural movement and bring the environment to life.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vFfvGguH3zY" 
   title="YouTube video player" frameborder="0" 
